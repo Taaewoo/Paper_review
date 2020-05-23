@@ -17,3 +17,6 @@ https://arxiv.org/pdf/1612.08242.pdf
 
 6. YOLOv3: An Incremental Improvement  
 https://pjreddie.com/media/files/papers/YOLOv3.pdf  
+  
+7. Fast R-CNN    
+https://arxiv.org/pdf/1504.08083.pdf  
