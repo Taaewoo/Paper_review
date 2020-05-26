@@ -20,3 +20,8 @@ https://pjreddie.com/media/files/papers/YOLOv3.pdf
   
 7. Fast R-CNN    
 https://arxiv.org/pdf/1504.08083.pdf  
+
+8. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks  
+https://arxiv.org/pdf/1506.01497.pdf  
+
+
