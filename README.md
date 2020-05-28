@@ -23,5 +23,6 @@ https://arxiv.org/pdf/1504.08083.pdf
 
 8. Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks  
 https://arxiv.org/pdf/1506.01497.pdf  
-
-
+  
+9. FaceNet: A Unified Embedding for Face Recognition and Clustering  
+https://arxiv.org/pdf/1503.03832.pdf  
