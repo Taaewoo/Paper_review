@@ -25,4 +25,7 @@ https://arxiv.org/pdf/1504.08083.pdf
 https://arxiv.org/pdf/1506.01497.pdf  
   
 9. FaceNet: A Unified Embedding for Face Recognition and Clustering  
-https://arxiv.org/pdf/1503.03832.pdf  
+https://arxiv.org/pdf/1503.03832.pdf   
+
+10. CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features  
+https://arxiv.org/pdf/1905.04899.pdf  
