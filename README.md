@@ -29,3 +29,6 @@ https://arxiv.org/pdf/1503.03832.pdf
 
 10. CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features  
 https://arxiv.org/pdf/1905.04899.pdf  
+
+11. Mask R-CNN    
+https://arxiv.org/pdf/1905.04899.pdf  
