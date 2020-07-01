@@ -33,5 +33,5 @@ https://arxiv.org/pdf/1905.04899.pdf
 11. Mask R-CNN    
 https://arxiv.org/pdf/1905.04899.pdf  
 
-12. Joint Discriminative and Generative Learning for Person Re-identification
+12. Joint Discriminative and Generative Learning for Person Re-identification  
 https://arxiv.org/pdf/1904.07223.pdf  
