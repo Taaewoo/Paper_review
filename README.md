@@ -34,4 +34,7 @@ https://arxiv.org/pdf/1905.04899.pdf
 https://arxiv.org/pdf/1905.04899.pdf  
 
 12. Joint Discriminative and Generative Learning for Person Re-identification  
-https://arxiv.org/pdf/1904.07223.pdf  
+https://arxiv.org/pdf/1904.07223.pdf    
+  
+13. Tracking Objects as Points  
+https://arxiv.org/pdf/2004.01177.pdf  
