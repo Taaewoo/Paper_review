@@ -38,3 +38,6 @@ https://arxiv.org/pdf/1904.07223.pdf
   
 13. Tracking Objects as Points  
 https://arxiv.org/pdf/2004.01177.pdf  
+
+14. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks  
+https://arxiv.org/pdf/1905.11946.pdf  
