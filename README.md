@@ -41,3 +41,6 @@ https://arxiv.org/pdf/2004.01177.pdf
 
 14. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks  
 https://arxiv.org/pdf/1905.11946.pdf  
+
+15. StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation  
+https://arxiv.org/pdf/1711.09020.pdf  
